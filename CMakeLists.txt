@@ -50,6 +50,8 @@ add_message_files(
   FILES
   PwmCmd.msg
   PwmCmdArray.msg
+  PwmDevice.msg
+  PwmDeviceArray.msg
 )
 
 ## Generate services in the 'srv' folder
