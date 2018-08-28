@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-red.svg)
 ![ROS](https://img.shields.io/badge/ROS-Kinetic--Kame-green.svg)
-![LICENSE](https://github.com/simchanu29/ros_adafruit_pwm_driver)
+[![GitHub license](https://img.shields.io/github/license/simchanu29/ros_adafruit_pwm_driver.svg)](https://github.com/simchanu29/ros_adafruit_pwm_driver/blob/master/LICENSE)
 
 ### Usage 
 Used by the following package : 
